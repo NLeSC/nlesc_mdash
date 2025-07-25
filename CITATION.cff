@@ -1,0 +1,15 @@
+# YAML 1.2
+---
+cff-version: "1.2.0"
+title: "nlesc_mdash"
+authors:
+  - family-names: Oord
+    given-names: Gijs
+    orcid: "https://orcid.org/0000-0000-0000-0000"
+date-released: 2025-07-25
+version: "0.1.0"
+repository-code: "https://github.com/NLeSC/nlesc_mdash"
+keywords:
+  - "dashboard"
+  - " business information"
+message: "If you use this software, please cite it using these metadata."
